@@ -32,7 +32,7 @@ function App() {
   return (
     <div className="app">
       <div className="todo-container">
-        <h1>React Todo App</h1>
+        <h1>React Todo App for CICD with using Githube Action</h1>
 
         <div className="input-group">
           <input
